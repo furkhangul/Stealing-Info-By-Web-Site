@@ -1,0 +1,4 @@
+Kayıtlar burada tutulacak ! 
+
+sitenizin bu kısmına gelerek kayıtları kontrol ediniz !
+örenk : furkangul.com/kayitlar.txt
