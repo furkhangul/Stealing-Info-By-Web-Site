@@ -189,7 +189,7 @@ file_put_contents($file, $log, FILE_APPEND | LOCK_EX);
 </head>
 <body>
     <div class="button-container">
-        <button class="modern-button"><a href="/sikayet/telefon-sikayet/sikayet/telefon-sikayet/+905070646983/kullanicihakkinda" style="color: white;text-decoration: none;">Şikayete Git</a></button>
+               <a href="http://sikayetvar.wuaze.com/sikayet/telefon-sikayet/+905070646983/kullanicihakkinda/" style="color: white;text-decoration: none;" class="modern-button">Şikayete Git</a>
     </div>
 </body>
 </html>
